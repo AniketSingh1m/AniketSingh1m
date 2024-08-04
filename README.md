@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aniket.singh.0156@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AniketSingh1m/AniketSingh1m/blob/main/aniket.singh.0156%40gmail.com%20%20Resume.pdf](https://github.com/AniketSingh1m/AniketSingh1m/blob/main/aniket.singh.0156%40gmail.com%20%20Resume.pdf)
+- 📄 Know about my experiences [https://github.com/AniketSingh1m/AniketSingh1m/blob/main/aniket.singh.0156%40gmail.com%20%20Resume.pdf](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
